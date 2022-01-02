@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
-<h3 align="center">I’m from Perú and passionate about my career, I am learning about web development.</h3>
+<h3 align="center">I’m from Perú and passionate about my career, I’m learning about web development.</h3>
 
 - 🌱 I’m currently learning **Angular**
 
