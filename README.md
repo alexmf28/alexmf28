@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">I’m from Perú and passionate about my career, I’m learning about web development.</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular** and **TypeScript**
 
 - 👯 I was part of a wonderful university project: [SISFAHD](https://github.com/anderasdfg/sisfahd-front)
 
