@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/alexmf28](https://github.com/alexmf28)
 
-- 💬 Ask me about **Vue**
-
 - 📫 Reach me: **alexismf2802@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
