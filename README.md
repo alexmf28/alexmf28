@@ -5,7 +5,7 @@
 
 - 👯 I was part of a wonderful university project: [SISFAHD](https://github.com/anderasdfg/sisfahd-front)
 
-- 👨‍💻 All of my projects are available at [https://github.com/alexmf28](https://github.com/alexmf28)
+- 👨‍💻 All of my projects are available at [https://github.com/alexmf28](https://github.com/alexmf28?tab=repositories)
 
 - 📫 Reach me: **alexismf2802@gmail.com**
 
