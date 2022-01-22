@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">I’m from Perú and passionate about my career, I’m learning about web development.</h3>
 
-- Website [alexmf28](https://wonderful-joliot-3657ed.netlify.app)
+- 💻 Website [alexmf28](https://wonderful-joliot-3657ed.netlify.app)
 
 - 🌱 I’m currently learning **Angular** and **TypeScript**
 
