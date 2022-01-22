@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">I’m from Perú and passionate about my career, I’m learning about web development.</h3>
 
+- Website [alexmf28](https://wonderful-joliot-3657ed.netlify.app)
+
 - 🌱 I’m currently learning **Angular** and **TypeScript**
 
 - 👯 I was part of a wonderful university project: [SISFAHD](https://github.com/anderasdfg/sisfahd-front)
@@ -8,8 +10,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/alexmf28](https://github.com/alexmf28?tab=repositories)
 
 - 📫 Reach me: **alexismf2802@gmail.com**
-
-- Website [alexmf28](https://wonderful-joliot-3657ed.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
