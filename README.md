@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular** and **TypeScript**
 
-- 👯 I was part of a wonderful university project: [SISFAHD](https://github.com/anderasdfg/sisfahd-front)
+- 👯 I was part of a wonderful university project: [SISFAHD-FRONT](https://github.com/anderasdfg/sisfahd-front), [SISFAHD-BACK](https://github.com/anderasdfg/SISFAHD)
 
 - 👨‍💻 All of my projects are available at [https://github.com/alexmf28](https://github.com/alexmf28?tab=repositories)
 
