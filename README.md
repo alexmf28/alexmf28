@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
-<h3 align="center">I’m from Perú and passionate about my career, I’m learning about web development.</h3>
+<h3 align="center">I’m from Perú and passionate about my career, Im learning about the last technologies and cloud computing</h3>
 
-- 💻 Website [alexmf28](https://wonderful-joliot-3657ed.netlify.app)
+- 💻 Website [alexmf28](https://mellifluous-kitsune-eaeda8.netlify.app)
 
-- 🌱 I’m currently learning **Angular** and **TypeScript**
+- 🌱 I’m currently learning **Cloud Computing** and **CI/CD**
 
-- 👏 I was part of a wonderful university project: [SISFAHD-FRONT](https://github.com/anderasdfg/sisfahd-front), [SISFAHD-BACK](https://github.com/anderasdfg/SISFAHD)
+- 👏 I was part of a wonderful university projects: [SISFAHD-FRONT](https://github.com/anderasdfg/sisfahd-front), [SISFAHD-BACK](https://github.com/anderasdfg/SISFAHD)
 
 - 👨‍💻 All of my projects are available at [https://github.com/alexmf28](https://github.com/alexmf28?tab=repositories)
 
